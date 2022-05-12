@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fishyclient",
+  "name": "Fishy Client",
+  "description": "Provides utilities for hypixel lobby fishing ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ttrss"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
